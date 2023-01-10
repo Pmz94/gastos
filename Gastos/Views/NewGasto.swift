@@ -2,7 +2,7 @@
 //  NewGasto.swift
 //  Gastos
 //
-//  Created by Csweb on 20/09/22.
+//  Created by Pedro Muñoz on 20/09/22.
 //
 
 import SwiftUI

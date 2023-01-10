@@ -2,7 +2,7 @@
 //  GruposViewModel.swift
 //  Gastos
 //
-//  Created by Csweb on 22/09/22.
+//  Created by Pedro Muñoz on 22/09/22.
 //
 
 import Foundation

@@ -2,7 +2,7 @@
 //  Category.swift
 //  Gastos
 //
-//  Created by Csweb on 21/09/22.
+//  Created by Pedro Muñoz on 21/09/22.
 //
 
 import Foundation

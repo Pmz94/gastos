@@ -2,7 +2,7 @@
 //  Extensiones.swift
 //  Gastos
 //
-//  Created by Csweb on 19/09/22.
+//  Created by Pedro Muñoz on 19/09/22.
 //
 
 import Foundation
